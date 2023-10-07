@@ -1,0 +1,7 @@
+import java.util.*;
+import java.lang.*;
+class Flight-tickets
+{
+public static void main(String args[])
+System.out.println("booking tickets for flight");
+}
